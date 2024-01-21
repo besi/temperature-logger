@@ -1,0 +1,15 @@
+[submodule "lib/ftdi-connector"]
+	path = lib/ftdi-connector
+	url = https://github.com/besi/kicad-ftdi-connector
+[submodule "lib/usb-a-pcb"]
+	path = lib/usb-a-pcb
+	url = https://github.com/besi/kicad-usb-a-pcb
+[submodule "lib/neopixel-strip"]
+	path = lib/neopixel-strip
+	url = https://github.com/besi/kicad-neopixel-strip
+[submodule "lib/esp-01m"]
+	path = lib/esp-01m
+	url = https://github.com/besi/kicad-esp-01m
+[submodule "lib/tp4056"]
+	path = lib/tp4056
+	url = https://github.com/besi/kicad-tp4056

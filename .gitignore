@@ -1,0 +1,10 @@
+/*.kicad_prl
+/fp-info-cache
+/*auto*
+/*.kicad_sch-bak
+/plot
+/sw/webrepl_cfg.py
+/sw/secrets.py
+*-backups
+.DS_Store
+*.kicad_prl

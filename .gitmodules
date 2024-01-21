@@ -1,9 +1,6 @@
 [submodule "lib/ftdi-connector"]
 	path = lib/ftdi-connector
 	url = https://github.com/besi/kicad-ftdi-connector
-[submodule "lib/usb-a-pcb"]
-	path = lib/usb-a-pcb
-	url = https://github.com/besi/kicad-usb-a-pcb
 [submodule "lib/neopixel-strip"]
 	path = lib/neopixel-strip
 	url = https://github.com/besi/kicad-neopixel-strip
@@ -13,3 +10,6 @@
 [submodule "lib/tp4056"]
 	path = lib/tp4056
 	url = https://github.com/besi/kicad-tp4056
+[submodule "lib/sd-card"]
+	path = lib/sd-card
+	url = https://github.com/besi/kicad-sd-card

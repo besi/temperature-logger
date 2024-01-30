@@ -13,3 +13,9 @@
 [submodule "lib/sd-card"]
 	path = lib/sd-card
 	url = https://github.com/besi/kicad-sd-card
+[submodule "lib/bme280"]
+	path = lib/bme280
+	url = https://github.com/besi/kicad-bme280
+[submodule "kicad-as12ap"]
+	path = kicad-as12ap
+	url = https://github.com/besi/kicad-as12ap

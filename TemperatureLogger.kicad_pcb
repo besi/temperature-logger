@@ -889,6 +889,9 @@
   (gr_text "Flash Problems: Detect >> 4MB Flash" (at 82.45 54.6) (layer "F.Fab") (tstamp 469071e0-f193-4088-b82c-e3143e6087d1)
     (effects (font (size 1.5 1.5) (thickness 0.3)) (justify left))
   )
+  (gr_text "TODO: Maybe rotate the bme and make a regular jst plug" (at 102.05 48.55) (layer "F.Fab") (tstamp 9f8d5047-e5ca-41cf-8c5e-20933b698796)
+    (effects (font (size 1.5 1.5) (thickness 0.3)))
+  )
 
   (segment (start 88.9 110.69) (end 88.9 109.22) (width 0.4) (layer "B.Cu") (net 1) (tstamp 7e93f78e-01ca-47db-906a-c98cdfc6569b))
   (segment (start 93.1 114.89) (end 88.9 110.69) (width 0.4) (layer "B.Cu") (net 1) (tstamp c808b0a2-4c9d-4399-a9dc-33e903bfb86a))
